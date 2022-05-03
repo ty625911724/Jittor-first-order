@@ -4,7 +4,7 @@
 Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci and Nicu Sebe. In [NeurIPS](https://papers.nips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html), 2019.
 
 <p align="center">
-<img src="imgs/vox-teaser.gif" width="800px"/>
+<img src="imgs/face-swap.gif" width="800px"/>
 </p>
 
 The original page: [[Project Page]](https://github.com/AliaksandrSiarohin/first-order-model)
